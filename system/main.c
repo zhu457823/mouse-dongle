@@ -5,7 +5,7 @@
 /***********************************************************
 Copyright (C), 1998-2011, Esense Technology Co., Ltd.
 FileName	: main.c
-Author		:  
+Author		: zjl 
 Date		:
 Description	: 程序入口文件
 Version		: v0.1
